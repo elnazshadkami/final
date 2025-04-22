@@ -138,21 +138,26 @@ I mirrored the chosen pattern on all four sides of the vase, creating continuous
 
 [![4-comma][images-fig12]](https://example.com)
 
-*Figure 2  . Biological Evolution: From Survival to Adaptation*
+*Figure 12  . Unfolded View with solid space*
 
-[![4-comma][images-fig12]](https://example.com)
+[![4-comma][images-fig13]](https://example.com)
 
-*Figure 2  . Biological Evolution: From Survival to Adaptation*
+*Figure 13  . Unfolded View and add negative space*
+
+[![4-comma][images-fig14]](https://example.com)
+
+*Figure 14  . Brender 1 of the final vase*
 
 
 ## Result and Future Work
-In this project, based on the mathematical equation and one shape from traditional art, I recreated it with technical methods and generated five new generations that are completely unique but related to Figure 4. I wanted to show mathematical equations, which are the primary way to make geometric patterns because they are mostly symmetrical and based on them and using some software that is best for drawing mathematics, I can make more shapes in a short time. In traditional arts, people draw anything with hand details. Still, based on my mathematical command of CAD, like mirrors, I just drew half of the shapes because I reflected them on some exams that I mentioned, and they are created. Also, I tried mathematical command for the exact shape (figure 7,8) but changed the sequences for reflation axes, and the final shape is so different that they came from the same shape. Changing the mathematical axe sequences made the final shapes in Figures (7.13 and 8.11). I will use CAD to draw more axes to create precise, complex geometric shapes. Then, I will use Photoshop to turn the models into actual patterns with materials. It allows for flexibility and control when designing textures.
-[![4-comma][images-fig10]](https://example.com)
-*Figure 10. The recreated model (Figure 4) was textured using Photoshop, with colors that match the artwork on the painting.*
+This project reflects my ideas about transforming Darwin’s theory of natural selection into a visual design process. I created a process of visual evolution by starting with simple triangular forms and gradually selecting those that seemed more complex and unpredictable in each stage. The shapes were created through small structural changes. Each triangle had different angles, showing forms that looked unique, adapting, and becoming different. Each process of generation was about the logic of natural selection. It was not about being biologically strong but about looking strong and unique. These qualities decided which form could continue to the next level. Selecting the best form was connected to research, not my vision, that I believe the final product is improved; in the future, I plan to use eye-tracking to see how people react to the forms. I will make a small field study where participants look at a series of changing geometric shapes. Then, I can study the eye movement data to understand which forms get more attention and look stronger. It will help me choose shapes based on research and what people see and feel. It also makes the idea closer to natural selection, where survival depends on environmental feedback.
+
 
 ## Conclusion
-In this project, based on the mathematical equation and one shape from traditional art, I recreated it with technical methods and generated six new generations that are completely unique but related to Figure 4. I wanted to show mathematical equations, which are the primary way to make geometric patterns because they are mostly symmetrical. Using some software that is best for drawing mathematics. I will use CAD to draw more axes to create precise, complex geometric shapes. Then, I will use Photoshop to turn the models into actual patterns with materials. It allows for flexibility and control when designing textures.
+This project taught me how to make a complex vase using simple shapes like triangles. The process starts with a simple triangle, and the complex form is chosen for the next step. Based on the research paper, I realized something unpredictable and chaotic is more complicated for the human eye. So, I defined some features of visual chaos and measured the level of chaos at each step. Each form that is high rank is a candidate for going to the next level. A memorable moment was when I made six generations and extended the final form for the vase walls. 
 <!-- Bibliography -->
+[![4-comma][images-fig15]](https://example.com)
+*Figure 15. render 2 of the final vase.*
 ## Bibliography
 [1].Critchlow, Keith. Islamic Patterns: An Analytical and Cosmological Approach. Thames & Hudson, 1976.
 Available on Archive.org
