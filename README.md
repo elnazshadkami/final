@@ -88,195 +88,61 @@ This theory is my inspiration for this project. In place of living organisms, I 
 My process grows step by step, like Darwin’s idea. I choose shapes using A and W. I think good design shouldn’t feel too predictable, but it should make you think. That’s why I started with triangles. Their angles create unexpected, complex forms. Squares are too regular.
 [![4-comma][images-fig4]](https://example.com)
 
-*Figure 4. I recreated the pattern from an image that was related to my concept. The main design was inside a square, based on the idea I had. The shapes look archaic, and the vertical,horizontal and diagonal axis (If BB' is L α. x + y = L ; (x,y) → (L - y,L - x) ) are arranged to keep the pattern centered.*
-T4=F1∘F2∘F3 
-
-F1: Reflection about X=0 
-
-F2: Reflection about Y=0
-
-F3:Diagonal reflection X+Y=L
+*Figure 4. feature Score Table(A) *
 
 [![4-comma][images-fig5]](https://example.com)
-*Figure 5. Figure 4.6 was used as the base to design a new repeating module. 
-T5=F5∘F4∘F3∘F2∘F1 where:
-F1: Reflection about X=0 
-
-F2: Reflection about Y=0
-
-F3: Reflection about X=0
-
-F4: Reflection about Y=0
-
-F5: Reflection about X=0  *
+*Figure 5. Weight Definition Table  *
 
 [![4-comma][images-fig6]](https://example.com)
 
-*Figure 6.  used shape 4.8 to create a new module then apply transformations like reflecting. Each step adds more details.
-T6=F9∘F8∘ F7∘ F6∘ F5∘ F4∘ F3∘ F2∘ F1∘
-F1:Diagonal reflection X+Y=L
-
-F2:Vertical reflection X=0
-
-F3:Horizontal reflection Y=0
-
-F4:Diagonal reflection X+Y=L
-
-F5:Vertical reflection X=0
-
-F6:Horizontal reflection Y=0
-
-F7:Horizontal reflection Y=0
-
-F8:Vertical reflection X=0
-
-F9:Vertical reflection X=0 *
+*Figure 6: Highly asymmetric (A₁=1.0), visually engaging (A₃=0.6), and unstable (A₄=0.2).FIGURE C Symmetric (A₁=0.3), visually weak (A₃=0.3), and too stable (A₄=0.8). 
+F(G)=w1​⋅A1​+w2​⋅A2​+w3​⋅A3​+w4​⋅A4​
+        F(GB​)=(0.5*1.0)+(0.2*0.5)+(0.2*0.6)+(0.1*0.2)=0.74
+        F(GC​) = (0.5*0.3)+(0.2*0.4)+(0.2*0.3)+(0.1*0.8)=0.37 *
 
 [![4-comma][images-fig7]](https://example.com)
 
-*Figure 7.I selected shape 4.9.and used many times, with reflecting, rotations, and scale changes. The pattern grows more and more complex in every step. Red lines help to show how parts reflected along harizental and vertical axes. At the end (7.12), I get a finished shape inside a polygon border.
-T7=F10∘F9∘F8∘F7∘F6∘F5∘F4∘F3∘F2∘S∘F1∘R
-R :35
-
-F1:An initial reflection X=0
-
-S:A 75% enlargement scaling
-
-F2-F10:A sequence of 9 reflections, some of them repeated, including:
-
-Multiple  reflections Y=O
-
- X=0 reflections
-
-A combined X=O AND Y=0  and  reflection*
+*Figure 7. F(GF) (selected): Irregular (0.7), complex (0.8), strong (0.6), low stability (0.3). GE): Symmetric (0.4), simple (0.5), weak (0.4), stable (0.6). There is not enough potential. F GD) Mild asymmetry (0.5), mid complexity (0.6), average strength (0.5), semi-stable (0.5). 
+F(GD)=w1​⋅A1​+w2​⋅A2​+w3​⋅A3​+w4​⋅A4​= (0.3×0.4)+(0.3×0.5)+(0.2×0.4)+(0.2×0.6)=0.12+0.15+0.08+0.12=0.47
+F(GE):(0.3×0.5)+(0.3×0.6)+(0.2×0.5)+(0.2×0.5)=0.15+0.18+0.10+0.10=0.53
+F(GF):w₁·A₁ + w₂·A₂ + w₃·A₃ + w₄·A₄=(0.3×0.7)+(0.3×0.8)+(0.2×0.6)+(0.2×0.3)=0.21+0.24+0.12+0.06=0.63*
 
 [![4-comma][images-fig8]](https://example.com)
 
-*Figure 8. The selected module was made using shape 7 (without rotation).then I reflected for some parts or all parts, and scaling. The steps show how the pattern becomes more complex. The red lines help to explain the reflection along vertical and horizental axes. In the last step (8.11), the final pattern is inside a polygonal frame.
-T8=F1∘F2∘F3∘F4∘F5∘F6∘F7∘F8∘F9∘F10
-F1:X=0 reflection
-
-F2:Y=0reflection
-
-F3:Y=X Diagonal reflection 
-
-F4:X=0 reflection
-
-F5:Y=0 reflection
-
-F6:Combined X=0 and Y=0 reflection
-
-F7:X=0 reflection
-
-F8:Y=0 reflection
-
-F9:Y=0 reflection
-
-F10:Y=0  reflection*
+*Figure 8.  F(GJ)(selected shape): Very asymmetric (0.9), highly complex (0.9), visual impact (0.9), and fully open (0.2). F GG): Slightly asymmetric (0.6), mid complexity (0.6), average strength (0.6), semi-stable (0.5). F GH): Spread form (0.7), complex (0.8), noticeable (0.7), semi-open (0.4).
+F(GG) = (0.3×0.6) + (0.3×0.6) + (0.2×0.6) + (0.2×0.5)F(G) = 0.18 + 0.18 + 0.12 + 0.10 = 0.58
+F(GH) = (0.3×0.7) + (0.3×0.8) + (0.2×0.7) + (0.2×0.4)F(G) = 0.21 + 0.24 + 0.14 + 0.08 = 0.67
+F(GJ) = w₁·A₁ + w₂·A₂ + w₃·A₃ + w₄·A₄=(0.3×0.9) + (0.3×0.9) + (0.2×0.9) + (0.2×0.2)F(G) = 0.27 + 0.27 + 0.18 + 0.04 = 0.76*
 
 [![4-comma][images-fig9]](https://example.com)
 
-*Figure 9. I selected shape 4.3 and changed the square frame into a rectangle.
-T9=S∘F1∘ F2∘ F3∘ R∘ F4∘ F5∘ F6∘ F7∘ F8∘ F9∘ F10∘ F11∘ F12∘ F13∘ F14∘
-A complex pattern built with:
+*Figure 9. F(GK​): Some symmetry (0.5), layered (0.7), decent visual (0.6), closed form (0.6). F GL): Asymmetric (0.7), very complex (0.9), strong visual (0.7), and loosely connected (0.3)(chosen shape)
+F(GM​): Almost mirrored (0.3), balanced complexity (0.6), medium visual strength (0.5), stable (0.5)
+F(GK​)= (0.3×0.5)+(0.3×0.7)+(0.2×0.6)+(0.2×0.6)=0.60
+F(GL) = w₁·A₁ + w₂·A₂ + w₃·A₃ + w₄·A₄F(G) = (0.3×0.7) + (0.3×0.9) + (0.2×0.7) + (0.2×0.3)F(G) = 0.21 + 0.27 + 0.14 + 0.06 = 0.68
+F(GM​)=(0.3×0.3)+(0.3×0.6)+(0.2×0.5)+(0.2×0.5=0.47*
 
-Scaling (75% enlargement)
+[![4-comma][images-fig10]](https://example.com)
 
-Two  and one  reflection
+*Figure 10. F(GN) (selected): Very asymmetric (0.9), highly complex (1.0), strong impact (0.9), and open (0.2). F GO): Heavy form (0.8), very complex (0.9), dispersed strength (0.8), and rigid (0.4)
+F(GN) = w₁·A₁ + w₂·A₂ + w₃·A₃ + w₄·A₄F(G) = (0.3×0.9) + (0.3×1.0) + (0.2×0.9) + (0.2×0.2)F(G) = 0.27 + 0.30 + 0.18 + 0.04 = 0.79
+F(GO) = w₁·A₁ + w₂·A₂ + w₃·A₃ + w₄·A₄F(G) = (0.3×0.8) + (0.3×0.9) + (0.2×0.8) + (0.2×0.4)F(G) = 0.24 + 0.27 + 0.16 + 0.08 = 0.75*
 
-Rotation 90
+[![4-comma][images-fig11]](https://example.com)
 
-A sequence of reflections including multiple diagonal reflections 
+*Figure 11. F(GP)(selected): Asymmetric (0.8), complex (0.9), strong visual (0.8), and open (0.4). F GQ): More regular (0.6), less complex (0.7), narrow visual (0.6), and rigid (0.5)
+F(GP) = w₁·A₁ + w₂·A₂ + w₃·A₃ + w₄·A₄F(G) = (0.3×0.8) + (0.3×0.9) + (0.2×0.8) + (0.2×0.4)F(G) = 0.24 + 0.27 + 0.16 + 0.08 = 0.75
+F(GQ) = (0.3×0.6) + (0.3×0.7) + (0.2×0.6) + (0.2×0.5)F(G) = 0.18 + 0.21 + 0.12 + 0.10 = 0.61*
 
-Final reflections to complete the symmetry.*
+I mirrored the chosen pattern on all four sides of the vase, creating continuous lines that connect the walls and give the form a unified, flowing appearance.
 
+[![4-comma][images-fig12]](https://example.com)
 
+*Figure 2  . Biological Evolution: From Survival to Adaptation*
 
-My pattern is symmetrical, so i used CAD software-the best tool for drawing precise geometric shapes-to construct my pattern. I extended this symmetry operation by mathematical equation like reflecting, scaling, rotating based on the figure A formula.
- 
-I realized the main pattern was created in a square, so I drew a square by this point A, B, A', B' and drew a rhombus inside the square(figure 4.3) 
-Arc is drawn from A center and R= AA1/2 (figure 4.4),
-D1A1 is divided by 3, m, and n, draws a line perpendicular to the arc, and reflects so: 
-T4=F1∘F2∘F3 
-F1:(x,y)→(L−y,L−x)
-F2:(x,y)→(−x,y) 
-F3:(x,y)→(x,−y)
+[![4-comma][images-fig12]](https://example.com)
 
-Other shapes were generated from figure 4. Figure 5 is generated from figure 4.6 with reflecting so:
-T5=F5∘F4∘F3∘F2∘F1
-F1:(x,y)→(−x,y) 
-F2:(x,y)→(x,−y)
-F3:(x,y)→(−x,y) 
-F4:(x,y)→(x,−y) 
-F5:(x,y)→(−x,y) 
-
-
-
-
-Figure 6 is generated from figure 4.8 with reflecting:
-T6=F1 F2∘ F3∘ F4∘ F5∘ F6∘ F7∘ F8∘ F9∘
-Where:
-1.	F1:(x,y)→(L−y,L−x) 
-2.	F2:(x,y)→(−x,y)
-3.	F3:(x,y)→(x,−y) 
-4.	F4:(x,y)→(L−y,L−x)
-5.	F5:(x,y)→(−x,y)
-6.	F6:(x,y)→(x,−y)
-7.	F7:(x,y)→(x,−y)
-8.	F8:(x,y)→(−x,y)
-9.	F9:(x,y)→(−x,y)
-
-
-Figure 7 is generated from figure 4.9 with rotation, reflecting and scaling so :
-T7=F10∘F9∘F8∘F7∘F6∘F5∘F4∘F3∘F2∘S∘F1∘R
-Where:
-1.	R:(x,y)→Rθ(x,y)R : (x,y) θ=35
-2.	F1:(x,y)→(−x,y)
-3.	S:(x,y)→(1.75x,1.75y)— Scaling by 75% enlargement
-4.	F2:(x,y)→(x,−y)
-5.	F3:(x,y)→(x,−y)
-6.	F4:(x,y)→(x,−y)
-7.	F5:(x,y)→(x,−y)
-8.	F6:(x,y)→(−x,−y) 
-9.	F7:(x,y)→(−x,y)
-10.	F8:(x,y)→(x,−y)
-11.	F9:(x,y)→(x,−y)
-12.	F10:(x,y)→(x,−y)
-	
-Figure 8 is also generated from 4.9 with reflecting so:
-T8=F1∘F2∘F3∘F4∘F5∘F6∘F7∘F8∘F9∘F10
-Where:
-1.	F1:(x,y)→(−x,y)
-2.	F2:(x,y)→(x,−y)
-3.	F3:(x,y)→(y,x) 
-4.	F4:(x,y)→(−x,y)
-5.	F5:(x,y)→(x,−y)
-6.	F6:(x,y)→(−x,−y) 
-7.	F7:(x,y)→(−x,y)
-8.	F8:(x,y)→(x,−y)
-9.	F9:(x,y)→(x,−y)
-10.	F10:(x,y)→(x,−y)
-
-Figure 9 is generated from 4.3 with scaling, reflecting and rotating so:
-T9=S∘F1∘ F2∘ F3∘ R∘ F4∘ F5∘ F6∘ F7∘ F8∘ F9∘ F10∘ F11∘ F12∘ F13∘ F14∘
-1.	S:(x,y)→(1.75x,1.75y)____Scaling by 75% enlargement
-2.	F1:(x,y)→(x,−y)
-3.	F2:(x,y)→(−x,y) 
-4.	F3:(x,y)→(−x,y) 
-5.	R:(x,y)→Rθ(x,y) θ=35
-6.	F4:(x,y)→(y,x) 
-7.	F5:(x,y)→(−x,y) 
-8.	F6:(x,y)→(x,−y) 
-9.	F7:(x,y)→(x,−y) 
-10.	F8:(x,y)→(x,−y) 
-11.	F9:(x,y)→(y,x) 
-12.	F10:(x,y)→(y,x) 
-13.	F11:(x,y)→(y,x) 
-14.	F12:(x,y)→(y,x) 
-15.	F13:(x,y)→(y,x) 
-16.	F14:(x,y)→(y,x) 
-
-
+*Figure 2  . Biological Evolution: From Survival to Adaptation*
 
 
 ## Result and Future Work
