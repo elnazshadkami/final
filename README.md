@@ -95,9 +95,9 @@ My process grows step by step, like Darwin’s idea. I choose shapes using A and
 
 [![4-comma][images-fig6]](https://example.com)
 
-*Figure 6: figure B Highly asymmetric (1.0),Complexity(0.5), visually engaging (0.6), and unstable (=0.2)
+*Figure 6: figure C Highly asymmetric (1.0),Complexity(0.5), visually engaging (0.6), and unstable (=0.2)
 
-.FIGURE C Symmetric (A₁=0.3), Complexityvisually(0.4) weak (A₃=0.3), and too stable (A₄=0.8). 
+.FIGURE B asymmetric (A₁=0.3), Complexityvisually(0.4) weak (A₃=0.3), and too stable (A₄=0.8). 
 
 F(G)=w1​⋅A1​+w2​⋅A2​+w3​⋅A3​+w4​⋅A4​
         F(GB​)=(0.5*1.0)+(0.2*0.5)+(0.2*0.6)+(0.1*0.2)=0.74
