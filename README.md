@@ -146,7 +146,11 @@ I mirrored the chosen pattern on all four sides of the vase, creating continuous
 
 [![4-comma][images-fig14]](https://example.com)
 
-*Figure 14  . Brender 1 of the final vase*
+*Figure 14  . render 1 of the final vase*
+
+[![4-comma][images-fig15]](https://example.com)
+
+*Figure 15  . render 2 of the final vase*
 
 
 ## Result and Future Work
@@ -156,16 +160,14 @@ This project reflects my ideas about transforming Darwin’s theory of natural s
 ## Conclusion
 This project taught me how to make a complex vase using simple shapes like triangles. The process starts with a simple triangle, and the complex form is chosen for the next step. Based on the research paper, I realized something unpredictable and chaotic is more complicated for the human eye. So, I defined some features of visual chaos and measured the level of chaos at each step. Each form that is high rank is a candidate for going to the next level. A memorable moment was when I made six generations and extended the final form for the vase walls. 
 <!-- Bibliography -->
-[![4-comma][images-fig15]](https://example.com)
-*Figure 15. render 2 of the final vase.*
+[![4-comma][images-fig16]](https://example.com)
+*Figure 16. final 3d print.*
 ## Bibliography
-[1].Critchlow, Keith. Islamic Patterns: An Analytical and Cosmological Approach. Thames & Hudson, 1976.
-Available on Archive.org
-https://archive.org/details/islamicpatterns00crit
+[1] Darwin, Charles. The Complete Works of Charles Darwin Online. Edited by John van Wyhe. University of Cambridge, 2002–. Available at https://darwin-online.org.uk/
 
-[2] Broug, Eric. Islamic Geometric Patterns. Thames & Hudson, 2008, https://www.amazon.com/Islamic-Geometric-Patterns-Eric-Broug/dp/050028721X
+[2] Said, Christopher P., and Brascamp, Jan W. “The Perception of Visual Complexity Is Driven by Structure, Not Entropy.” Cognition, vol. 238, 2023, 105490. https://www.sciencedirect.com/science/article/pii/S0010027723001099?via%3Dihub
 
-[3] Bhatt, D., et al. “Computer Aided Design (CAD).” ResearchGate, 2022, https://www.researchgate.net/publication/358140456_Computer_Aided_Design_CAD.
+[3] Forsythe, Alexandra, Nadal, Marcos, Sheehy, Nicholas, Cela-Conde, Camilo J., and Sawey, Martin. “Predicting Beauty: Fractal Dimension and Visual Complexity in Art.” PLOS ONE, vol. 12, no. 9, 2017, e0185276. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185276.
 
 
 
@@ -218,6 +220,7 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [images-fig13]: images/13.png
 [images-fig14]: images/14.png
 [images-fig15]: images/15.png
+[images-fig16]: images/16.png
 
 
 
