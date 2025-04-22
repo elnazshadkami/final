@@ -22,10 +22,13 @@ Assignment 2 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 <div align="center">
   </a>
 
-  <h3 align="center">assigment 2: Geametric pattern >
+  <h3 align="center">Final assigment:  Darwinian Geometry: Evolving Forms in Space >
 
     
-My project are bout recreat molude and generate it with CAD.traditional patterns are important because they are related to history. Still, they are in danger of being forgotten because drawing them- incredibly complex ones based on geometry- is very difficult and time-consuming. In this project, I decided to take one of those traditional patterns and recreate it using technical tools. My goal was to give the pattern a modern concept and bring it back to life while making the process easier with software. I used CAD for all the steps, including design and geometry. These patterns often had very complex geometry in the past. Still, the software can handle those calculations automatically through commands, so we no longer need to do hard geometric math
+In this project, I got inspired by Darwin’s theory of natural selection. I started with a simple triangle and, in each step, I chose the shape that looked more complex and chaotic. At each stage, using a selection formula that weighs features like complexity, visual strength, and asymmetry, the best forms were chosen to move to the next generation. Finally, the selected shape was used as the main pattern to make the vase walls. This project is a combination of mathematical equation and visual design.
+
+
+
 
   <p align="center">
     <br />
@@ -42,37 +45,47 @@ My project are bout recreat molude and generate it with CAD.traditional patterns
 
 *Figure 1.
 
-I recreated one of the traditional patterns in CAD. The original version was hand-drawn, and using CAD, I produced new generations of the pattern based on that design.
-
+I created a vasethat has complex design based on simple triangles.
 
 
 <!-- Abstract -->
 ## Abstract
-In this project I create geometric patterns that are symmetrical and reflect  along vertical (x=0) and horizontal (y=0) and diagonal axes. The concept is forming clay cup and paintings that they draw by hand and traditional. I created it on cad that is clear software for drawing geometric patterns with adding mathematical comments. All parents is generated from the concept. I want to show new geometric pattens that are so different and unique, but they are related to a basic pattern that is my concept and the relationship between traditional art and digital which is related to geometry and mathematical. 
-<!-- Introduction and Related Works -->
+In this project, based on Darwin's theory of natural selection, I made a vase with some non-symmetrical, irregular, and visually strong triangles. Each vase wall is connected to other walls through these triangular forms. The process starts with a simple triangle, and at each level, some complex forms are selected. The final shape is designed to extend across four walls and create a strong composition on walls. This project aims to create and design a vase through geometric transformation inspired by Darwin's theory of natural selection and generate a complex form as a composition that exists within the vase's walls.
 ## Introduction and Related Works
 
 [![4-comma][images-fig2]](https://example.com)
 
-*Figure 2  . The concept is based on a form originally hand-painted by an artist from the ancient era, dating back to around the 1st millennium BCE.*
+*Figure 2  . Biological Evolution: From Survival to Adaptation*
 
 
 [![4-comma][images-fig3]](https://example.com)
 
-*Figure 3  . formula A :T = Total transformation of the whole pattern
-                        /p = Part index (each part may be transformed differently).
-                        /P = Total number of parts
-                        /Fip=Thei-th reflection within part 𝑝
-                        /kp= Number of reflections applied to part𝑝
-                        /Ssp= Scaling applied to part 𝑝 (optional, if no scaling, set it to identity transformation)
-                       /​Rmp= Rotation applied to part 𝑝
-                      /Tnp= Translation (move) applied to part.*
+*Figure 3  . formula A :F: The final fitness score of a form
+
+A₁: Asymmetry — how irregular or unbalanced the form is
+
+A₂: Complexity — the structural and visual intricacy
+
+A₃: Visual Strength — how much the form stands out visually
+
+A₄: Structural Stability — how connected, closed, or stable the form looks
+
+w₁–w₄: Weights assigned to each feature, based on importance
+
+G₀′: A set of generated forms in the current generation
+
+G₁: The selected form with the highest fitness score to move to the next generation
+
+*
 
 
 
-Islamic geometric patterns are important in art and architecture because they are an archetype and heritage for Iran [1]. I chose the pictures of clay cups and paintings in this book [2] and recreate and generate more. In the past, artists who drew geometric patterns relied on traditional tools such as the compass and set square rather than digital software. They spent more time on precise manual calculations and understanding geometric principles, making the process complex [1]. I recreated six traditional geometric patterns and used four axes that are in table A for making reflection [2]. I understood that CAD Computer-Aided Design software is used to increase the designer's productivity, improve the design quality, and create a database for manufacturing. CAD output is often electronic files for print or other manufacturing operations[3]. With CAD, I can draw shapes much faster and more efficiently than old tools like the compass and set square. One challenge is that digital patterns can lose the handmade feeling of traditional art that is part of our heritage and can be forgotten over time. However, CAD is a powerful tool because it makes design faster and more adaptable for different creative projects in the digital world.
+"As more individuals are produced than can survive, there must in every case be a struggle for existence [1]. Based on Darwin's theory of natural selection, some traits can survive and are complex. [1]
+"Triangles are the simplest polygon, yet they offer the highest flexibility for constructing complex surfaces" [2]. Most researchers have shown that the human brain responds strongly to complex and unpredictable forms [2].
+This theory is my inspiration for this project. In place of living organisms, I use geometric forms to explore the same principles. I started with a triangle, which can potentially create complex shapes [3]. Also, the angles and the length can be changed, making it many unique triangles, but we have the same angles in other shapes like squares or rectangles. At each stage, I selected the more unpredictable and visually complex form rather than one that was simply symmetrical or orderly. For the production process, I use CAD for sketches, highly precise software for making patterns, and Photoshop to make visual patterns clear. I used SketchUp and 3ds Max to control lighting and textures for modeling, turning scientific theory into visual form. These tools, widely used since the 1980s, helped translate theory into form.
 
 ## Methodology
+My process grows step by step, like Darwin’s idea. I choose shapes using A and W. I think good design shouldn’t feel too predictable, but it should make you think. That’s why I started with triangles. Their angles create unexpected, complex forms. Squares are too regular.
 [![4-comma][images-fig4]](https://example.com)
 
 *Figure 4. I recreated the pattern from an image that was related to my concept. The main design was inside a square, based on the idea I had. The shapes look archaic, and the vertical,horizontal and diagonal axis (If BB' is L α. x + y = L ; (x,y) → (L - y,L - x) ) are arranged to keep the pattern centered.*
