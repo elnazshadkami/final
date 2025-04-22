@@ -208,6 +208,14 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [images-fig8]: images/8.png
 [images-fig9]: images/9.png
 [images-fig10]: images/10.png
+[images-fig11]: images/11.png
+[images-fig12]: images/12.png
+[images-fig13]: images/13.png
+[images-fig14]: images/14.png
+[images-fig15]: images/15.png
+
+
+
 
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
