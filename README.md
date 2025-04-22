@@ -194,6 +194,7 @@ This project reflects my ideas about transforming Darwin’s theory of natural s
 This project taught me how to make a complex vase using simple shapes like triangles. The process starts with a simple triangle, and the complex form is chosen for the next step. Based on the research paper, I realized something unpredictable and chaotic is more complicated for the human eye. So, I defined some features of visual chaos and measured the level of chaos at each step. Each form that is high rank is a candidate for going to the next level. A memorable moment was when I made six generations and extended the final form for the vase walls. 
 <!-- Bibliography -->
 [![4-comma][images-fig16]](https://example.com)
+
 *Figure 16. final 3d print.*
 ## Bibliography
 [1] Darwin, Charles. The Complete Works of Charles Darwin Online. Edited by John van Wyhe. University of Cambridge, 2002–. Available at https://darwin-online.org.uk/
