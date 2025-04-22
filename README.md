@@ -320,15 +320,15 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
 [images-fig1]: images/1.png
-[images-fig2]: images/fig2.png
-[images-fig3]: images/fig3.png
-[images-fig4]: images/fig4.png
-[images-fig5]: images/fig5.png
-[images-fig6]: images/fig6.png
-[images-fig7]: images/fig7.png
-[images-fig8]: images/fig8.png
-[images-fig9]: images/fig9.png
-[images-fig10]: images/fig10.png
+[images-fig2]: images/2.png
+[images-fig3]: images/3.png
+[images-fig4]: images/4.png
+[images-fig5]: images/5.png
+[images-fig6]: images/6.png
+[images-fig7]: images/7.png
+[images-fig8]: images/8.png
+[images-fig9]: images/9.png
+[images-fig10]: images/10.png
 
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
