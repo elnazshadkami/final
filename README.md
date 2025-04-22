@@ -95,14 +95,19 @@ My process grows step by step, like Darwin’s idea. I choose shapes using A and
 
 [![4-comma][images-fig6]](https://example.com)
 
-*Figure 6: Highly asymmetric (A₁=1.0), visually engaging (A₃=0.6), and unstable (A₄=0.2).FIGURE C Symmetric (A₁=0.3), visually weak (A₃=0.3), and too stable (A₄=0.8). 
+*Figure 6: Highly asymmetric (A₁=1.0), visually engaging (A₃=0.6), and unstable (A₄=0.2).
+FIGURE C Symmetric (A₁=0.3), visually weak (A₃=0.3), and too stable (A₄=0.8). 
 F(G)=w1​⋅A1​+w2​⋅A2​+w3​⋅A3​+w4​⋅A4​
         F(GB​)=(0.5*1.0)+(0.2*0.5)+(0.2*0.6)+(0.1*0.2)=0.74
         F(GC​) = (0.5*0.3)+(0.2*0.4)+(0.2*0.3)+(0.1*0.8)=0.37 *
 
 [![4-comma][images-fig7]](https://example.com)
 
-*Figure 7. F(GF) (selected): Irregular (0.7), complex (0.8), strong (0.6), low stability (0.3). GE): Symmetric (0.4), simple (0.5), weak (0.4), stable (0.6). There is not enough potential. F GD) Mild asymmetry (0.5), mid complexity (0.6), average strength (0.5), semi-stable (0.5).
+*Figure 7. F(GF) (selected): Irregular (0.7), complex (0.8), strong (0.6), low stability (0.3).
+
+F(GE): Symmetric (0.4), simple (0.5), weak (0.4), stable (0.6). There is not enough potential. 
+
+F GD) Mild asymmetry (0.5), mid complexity (0.6), average strength (0.5), semi-stable (0.5).
 
 F(GD)=w1​⋅A1​+w2​⋅A2​+w3​⋅A3​+w4​⋅A4​= (0.3×0.4)+(0.3×0.5)+(0.2×0.4)+(0.2×0.6)=0.12+0.15+0.08+0.12=0.47
 
@@ -112,7 +117,11 @@ F(GF):w₁·A₁ + w₂·A₂ + w₃·A₃ + w₄·A₄=(0.3×0.7)+(0.3×0.8)+(0
 
 [![4-comma][images-fig8]](https://example.com)
 
-*Figure 8.  F(GJ)(selected shape): Very asymmetric (0.9), highly complex (0.9), visual impact (0.9), and fully open (0.2). F GG): Slightly asymmetric (0.6), mid complexity (0.6), average strength (0.6), semi-stable (0.5). F GH): Spread form (0.7), complex (0.8), noticeable (0.7), semi-open (0.4).
+*Figure 8.  F(GJ)(selected shape): Very asymmetric (0.9), highly complex (0.9), visual impact (0.9), and fully open (0.2). 
+
+F (GG): Slightly asymmetric (0.6), mid complexity (0.6), average strength (0.6), semi-stable (0.5).
+
+F GH): Spread form (0.7), complex (0.8), noticeable (0.7), semi-open (0.4).
 
 F(GG) = (0.3×0.6) + (0.3×0.6) + (0.2×0.6) + (0.2×0.5)F(G) = 0.18 + 0.18 + 0.12 + 0.10 = 0.58
 
@@ -122,8 +131,11 @@ F(GJ) = w₁·A₁ + w₂·A₂ + w₃·A₃ + w₄·A₄=(0.3×0.9) + (0.3×0.9
 
 [![4-comma][images-fig9]](https://example.com)
 
-*Figure 9. F(GK​): Some symmetry (0.5), layered (0.7), decent visual (0.6), closed form (0.6). F GL): Asymmetric (0.7), very complex (0.9), strong visual (0.7), and loosely connected (0.3)(chosen shape)
-F(GM​): Almost mirrored (0.3), balanced complexity (0.6), medium visual strength (0.5), stable (0.5)
+*Figure 9. F(GK​): Some symmetry (0.5), layered (0.7), decent visual (0.6), closed form (0.6).
+
+F (GL): Asymmetric (0.7), very complex (0.9), strong visual (0.7), and loosely connected (0.3)(chosen shape).
+
+F(GM​): Almost mirrored (0.3), balanced complexity (0.6), medium visual strength (0.5), stable (0.5).
 
 F(GK​)= (0.3×0.5)+(0.3×0.7)+(0.2×0.6)+(0.2×0.6)=0.60
 
@@ -133,7 +145,9 @@ F(GM​)=(0.3×0.3)+(0.3×0.6)+(0.2×0.5)+(0.2×0.5=0.47*
 
 [![4-comma][images-fig10]](https://example.com)
 
-*Figure 10. F(GN) (selected): Very asymmetric (0.9), highly complex (1.0), strong impact (0.9), and open (0.2). F GO): Heavy form (0.8), very complex (0.9), dispersed strength (0.8), and rigid (0.4)
+*Figure 10. F(GN) (selected): Very asymmetric (0.9), highly complex (1.0), strong impact (0.9), and open (0.2). 
+
+F (GO): Heavy form (0.8), very complex (0.9), dispersed strength (0.8), and rigid (0.4)
 
 F(GN) = w₁·A₁ + w₂·A₂ + w₃·A₃ + w₄·A₄F(G) = (0.3×0.9) + (0.3×1.0) + (0.2×0.9) + (0.2×0.2)F(G) = 0.27 + 0.30 + 0.18 + 0.04 = 0.79
 
@@ -141,7 +155,9 @@ F(GO) = w₁·A₁ + w₂·A₂ + w₃·A₃ + w₄·A₄F(G) = (0.3×0.8) + (0.
 
 [![4-comma][images-fig11]](https://example.com)
 
-*Figure 11. F(GP)(selected): Asymmetric (0.8), complex (0.9), strong visual (0.8), and open (0.4). F GQ): More regular (0.6), less complex (0.7), narrow visual (0.6), and rigid (0.5)
+*Figure 11. F(GP)(selected): Asymmetric (0.8), complex (0.9), strong visual (0.8), and open (0.4).
+
+F (GQ): More regular (0.6), less complex (0.7), narrow visual (0.6), and rigid (0.5)
 
 F(GP) = w₁·A₁ + w₂·A₂ + w₃·A₃ + w₄·A₄F(G) = (0.3×0.8) + (0.3×0.9) + (0.2×0.8) + (0.2×0.4)F(G) = 0.24 + 0.27 + 0.16 + 0.08 = 0.75
 
