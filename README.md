@@ -101,9 +101,9 @@ My process grows step by step, like Darwin’s idea. I choose shapes using A and
 
 F(G)=w1​⋅A1​+w2​⋅A2​+w3​⋅A3​+w4​⋅A4​
 
-        F(GB​)=(0.5*1.0)+(0.2*0.5)+(0.2*0.6)+(0.1*0.2)=0.74
+        F(GC​)=(0.5*1.0)+(0.2*0.5)+(0.2*0.6)+(0.1*0.2)=0.74
         
-        F(GC​) = (0.5*0.3)+(0.2*0.4)+(0.2*0.3)+(0.1*0.8)=0.37 *
+        F(GB​) = (0.5*0.3)+(0.2*0.4)+(0.2*0.3)+(0.1*0.8)=0.37 *
 
 [![4-comma][images-fig7]](https://example.com)
 
