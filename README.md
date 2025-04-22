@@ -60,7 +60,7 @@ In this project, based on Darwin's theory of natural selection, I made a vase wi
 
 [![4-comma][images-fig3]](https://example.com)
 
-*Figure 3  . formula A :F: The final fitness score of a form
+*Figure 3  . formula A :F: Mathematical equation
 
 A₁: Asymmetry — how irregular or unbalanced the form is
 
