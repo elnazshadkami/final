@@ -1,4 +1,4 @@
-# final
+# "final assignment: Darwinian Evolution-Inspired Growth: A Geometric Vase
 
 Assignment 2 for Generative AI and Design, VIZA 626 at Texas A&amp;M University (Spring 2025)
 
@@ -22,7 +22,7 @@ Assignment 2 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 <div align="center">
   </a>
 
-  <h3 align="center">Final assigment:  Darwinian Geometry: Evolving Forms in Space >
+  <h3 align="center">Final assigment:  Darwinian Evolution-Inspired Growth: A Geometric Vase >
 
     
 In this project, I got inspired by Darwin’s theory of natural selection. I started with a simple triangle and, in each step, I chose the shape that looked more complex and chaotic. At each stage, using a selection formula that weighs features like complexity, visual strength, and asymmetry, the best forms were chosen to move to the next generation. Finally, the selected shape was used as the main pattern to make the vase walls. This project is a combination of mathematical equation and visual design.
