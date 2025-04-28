@@ -30,9 +30,9 @@ In this project, I got inspired by Darwin’s theory of natural selection. I sta
 
 
 
-  <p align="center">
+ <p align="center">
     <br />
-    <a href="https://github.com/elnazshadkami/final/blob/main/Darwinian_Evolution_Inspired_Growth__A_Geometric_Vase%20-overleaf.pdf"><strong>Link to PDF Report »</strong></a>
+    <a href="https://github.com/elnazshadkami/final/raw/main/Darwinian_Evolution_Inspired_Growth__A_Geometric_Vase-overleaf.pdf"><strong>Link to PDF Report (Overleaf) »</strong></a>
     <br />
     <br />
     <a href="https://website.com">elnazshadkami</a>
@@ -43,7 +43,7 @@ In this project, I got inspired by Darwin’s theory of natural selection. I sta
 
 <p align="center">
     <br />
-    <a href="https://github.com/elnazshadkami/final/blob/main/final%20assignment%20Darwinian%20Evolution-Inspired%20Growth%20A%20Geometric%20Vase%20arXiv.pdf »</strong></a>
+    <a href="https://github.com/elnazshadkami/final/raw/main/final%20assignment%20Darwinian%20Evolution-Inspired%20Growth%20A%20Geometric%20Vase%20arXiv.pdf"><strong>Link to PDF Report (arXiv) »</strong></a>
     <br />
     <br />
     <a href="https://website.com">elnazshadkami</a>
@@ -51,7 +51,6 @@ In this project, I got inspired by Darwin’s theory of natural selection. I sta
     <a href="https://sites.google.com/view/viza626/home">VIZA 626</a>
   </p>
 </div>
-
 [![4-comma][images-fig1]](https://example.com)
 
 *Figure 1.
