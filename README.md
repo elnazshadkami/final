@@ -51,11 +51,10 @@ In this project, I got inspired by Darwin’s theory of natural selection. I sta
     <a href="https://sites.google.com/view/viza626/home">VIZA 626</a>
   </p>
 </div>
+
 [![4-comma][images-fig1]](https://example.com)
 
-*Figure 1.
-
-I created a vasethat has complex design based on simple triangles.
+*Figure 1. I created a vasethat has complex design based on simple triangles.*
 
 
 <!-- Abstract -->
